@@ -64,7 +64,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![GitHub Logo](simpleservr.png)
+![GitHub Logo](simpleserver.png)
 
 ## RESULT:
 The program is executed succesfully
